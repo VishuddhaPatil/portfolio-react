@@ -1,24 +1,24 @@
 # Portfolio Website (React)
 
-Personal portfolio website built using React to showcase my projects, skills, and contact information.
+A personal portfolio website built using React to showcase my projects, skills, and contact information in a clean and professional layout.
+
+---
 
 ## 🚀 Features
-- Responsive design
-- Projects showcase
-- Skills section
-- Contact information
+- Responsive and modern UI
+- Projects showcase section
+- Skills and technology overview
+- Contact information section
+- Clean component-based structure
+
+---
 
 ## 🛠 Tech Stack
 - React
-- HTML
-- CSS
-- JavaScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-## 📸 Screenshots
-(Coming soon)
+---
 
-## 🌐 Live Demo
-(Will be added after deployment)
-
-## 📂 Project Status
-In progress 🚧
+## 📁 Project Structure
